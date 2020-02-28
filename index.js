@@ -1,3 +1,4 @@
+var recipes = {}
 function updateObjectWithKeyAndValue(object, key, value) {
   updateObjectWithKeyAndValue.key='value'
 }
